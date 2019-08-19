@@ -11,3 +11,4 @@ public class question5 {
         else
             System.out.println("Odd number");
     }
+}
